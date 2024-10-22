@@ -1,0 +1,5 @@
+SourceXLSFolder = "source_xls"
+SourceFolder = "source_folder"
+CompletedFolder = "completed_folder"
+GeneratedFolder = "generated_folders"
+CorruptedFolder = "corrupted_folder"
